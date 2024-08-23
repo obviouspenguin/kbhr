@@ -29,7 +29,7 @@
   "serial_number_source": "DEFAULT",
   "standalone_mode": false,
   "enable_logging": false,
-  "custom_launcher_icon": false,
+  "custom_launcher_icon": true,
   "user_agent_custom": "custom",
   "custom_denied_page": false,
   "wake_device": false,
