@@ -81,7 +81,7 @@
   "autoplay_audio": false,
   "control_wifi_state": false,
   "display_toolbar_swipe_down": true,
-  "idle_timeout": 1,
+  "idle_timeout": 2,
   "pause_javascript_timers_on_sleep": true,
   "show_bookmarks_icon": false,
   "allow_intents": false,
