@@ -28,6 +28,7 @@
   "sleep_device": true,
   "device_wake_time_thursday": "07:00",
   "cacheclear_page_load": false,
+  "input_resize_page": true,
   "input_resize_page": false,
   "nfc_enabled": false,
   "serial_number_source": "DEFAULT",
