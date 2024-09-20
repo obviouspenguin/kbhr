@@ -105,6 +105,7 @@
   "default_camera": "Back",
   "whitelist_troubleshoot": false,
   "device_sleep_time_wednesday": "17:00",
+  "automatic_config_url": "https://raw.githubusercontent.com/obviouspenguin/kbhr/main/RU59.json"
   "automatic_config_download_frequency": 15,
   "fullscreen_mode": true,
   "show_browser_controls": true,
